@@ -4,7 +4,7 @@ function hoge() {
 }
 
 function hello() {
-    const apple = 'hello';
+    const apple = 'world';
 }
 
 function world() {
