@@ -15,3 +15,5 @@ function world() {
 
 function another() {}
 
+function cool() {}
+
