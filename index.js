@@ -13,3 +13,5 @@ function world() {
     }, 1000)
 }
 
+function another() {}
+
